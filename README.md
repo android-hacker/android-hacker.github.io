@@ -1,13 +1,15 @@
 **VirtualXposed** 是基于[VirtualApp](https://github.com/asLody/VirtualApp) 和 [epic](https://github.com/tiann/epic) 在**非ROOT**环境下运行Xposed模块的实现（支持5.0~8.1)。
 
-## 警告
-本项目使用的 VirtualApp 不允许用于商业用途，如果有这个需求，请联系 Lody (imlody@foxmail.com)。
+## 下载
+
+[最新版](http://p229bylfv.bkt.clouddn.com/VirtualXposed_latest.apk)
+[历史版本](download.md)
 
 ## 使用
 
 ### 准备
 
-首先在 [发布页面](https://github.com/android-hacker/VirtualXposed/releases) 下载最新的VAExposed安装包安装到手机。
+首先在 [下载页面](download.md) 下载最新的VAExposed安装包安装到手机。
 
 ### 安装模块
 
