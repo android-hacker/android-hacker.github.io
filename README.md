@@ -2,8 +2,8 @@
 
 ## 下载
 
-[最新版](http://p229bylfv.bkt.clouddn.com/VirtualXposed_latest.apk)
-[历史版本](download.md)
+- [最新版](http://p229bylfv.bkt.clouddn.com/VirtualXposed_latest.apk)
+- [历史版本](download.md)
 
 ## 使用
 
