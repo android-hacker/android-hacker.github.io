@@ -1,7 +1,4 @@
 theme: jekyll-theme-cayman
 title: VirtualXposed
 description: Use Xposed with a simple App, do not need root, unlock the bootloader, or flush system image.
-show_downloads: true
-github:
-  zip_url: http://p229bylfv.bkt.clouddn.com/VirtualXposed_latest.apk
-  another_url: http://p229bylfv.bkt.clouddn.com/VirtualXposed_latest.apk
+show_downloads: false
