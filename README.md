@@ -1,14 +1,16 @@
 **VirtualXposed** 是基于[VirtualApp](https://github.com/asLody/VirtualApp) 和 [epic](https://github.com/tiann/epic) 在**非ROOT**环境下运行Xposed模块的实现（支持5.0~8.1)。
 
-[点击下载][1]
+[点击下载][latest_version]
 
 ## 使用
+
+<embed height="415" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="//static.hdslb.com/miniloader.swf" flashvars="aid=20073523&page=1" pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"></embed>
 
 ### 准备
 
 首先在 [下载页面](download.md) 下载最新的 VirtualXposed 安装包安装到手机。
 
-- [最新版][1]
+- [最新版][latest_version]
 - [历史版本](download.md)
 
 ### 安装模块
@@ -17,26 +19,27 @@
 
 注意：**所有的工作（安装Xposed模块，安装APP）必须在 VirtualXposed中**进行，否则Xposed模块不会有任何作用！比如，将微信直接安装在系统上（而非VirtualXposed中），防撤回安装在VirtualXposed中；或者把微信安装在VirtualXposed上，防撤回插件直接安装在系统上；或者两者都直接安装在系统上，**均不会起任何作用**。
 
-在VirtualXposed中安装App有两种方式：
+在VirtualXposed中安装App有三种方式：
 
 1. 直接复制已经在系统中安装好的APP，比如如果你系统中装了微信，那么可以直接复制一份。
 2. 通过外置存储直接安装APK文件；点主界面的➕，然后选择后面两个TAB即可。
+3. 点击右边的浮动按钮，从第三方文件选择器选择安装。
 
 在VirtualXposed中安装Xposed模块，可以跟安装正常的APK一样，以上两种安装App的方式也适用于安装Xposed模块。不过，你也可以通过VirtualXposed中内置的XposedInstaller来安装和管理模块，跟通常的XposedInstaller使用方式一样；去下载页面，下载安装即可。 
 
 ## 已经支持的模块
 
-- 微X模块
-- 微信巫师
-- 应用变量
-- 音量增强器
-- 微信学英语
-- 冲顶助手
-- 情迁抢包
-- 微信跳一跳助手
-- 步数修改器
-- 模拟位置
-- 指纹支付
+- [微X模块][wx]
+- [微信巫师][wxws]
+- [应用变量][yybl]
+- [音量增强器][ylzqq]
+- [微信学英语][wxxyy]
+- [冲顶助手][cdzs]
+- [情迁抢包][qqqb]
+- [微信跳一跳助手][ttzs]
+- [步数修改器][bsxg]
+- [模拟位置][mnwz]
+- [指纹支付][zwzf]
 
 或许还有很多，自行测试。
 
@@ -58,4 +61,16 @@
 1. [VirtualApp](https://github.com/asLody/VirtualApp)
 2. [Xposed](https://github.com/rovo89/Xposed)
     
-[1]: http://p229bylfv.bkt.clouddn.com/VirtualXposed_0.7.1.apk
+[latest_version]: http://p229bylfv.bkt.clouddn.com/VirtualXposed_0.7.1.apk
+[wx]: https://pan.baidu.com/s/1hrOzCnq#list/path=%2Freleases%2Fapk&parentPath=%2Freleases
+[wxws]: https://github.com/Gh0u1L5/WechatMagician/releases
+[yybl]: https://www.coolapk.com/apk/com.sollyu.xposed.hook.model
+[ylzqq]: https://github.com/bin456789/Unblock163MusicClient-Xposed/releases
+[wxxyy]: https://www.coolapk.com/apk/com.hiwechart.translate
+[cdzs]: https://www.coolapk.com/apk/com.gy.xposed.cddh
+[qqqb]: http://repo.xposed.info/module/cn.qssq666.redpacket
+[ttzs]: http://repo.xposed.info/module/com.emily.mmjumphelper
+[mnwz]: https://www.coolapk.com/apk/com.rong.xposed.fakelocation
+[zwzf]: https://github.com/android-hacker/Xposed-Fingerprint-pay/releases
+[bsxg]: https://www.coolapk.com/apk/com.specher.sm
+
