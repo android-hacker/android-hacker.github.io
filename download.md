@@ -1,5 +1,13 @@
 # 发布日志
 
+## 0.7.1
+
+[下载](http://p229bylfv.bkt.clouddn.com/VirtualXposed_0.7.1.apk)
+
+更新说明:
+1. 修复闪退。
+2. 提升稳定性。
+
 ## 0.7.0
 
 [下载](http://p229bylfv.bkt.clouddn.com/VirtualXposed_0.7.0.apk)
