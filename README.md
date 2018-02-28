@@ -1,6 +1,6 @@
 **VirtualXposed** 是基于[VirtualApp](https://github.com/asLody/VirtualApp) 和 [epic](https://github.com/tiann/epic) 在**非ROOT**环境下运行Xposed模块的实现（支持5.0~8.1)。
 
-[点击下载](http://p229bylfv.bkt.clouddn.com/VirtualXposed_latest.apk)
+[点击下载][1]
 
 ## 使用
 
@@ -8,7 +8,7 @@
 
 首先在 [下载页面](download.md) 下载最新的 VirtualXposed 安装包安装到手机。
 
-- [最新版](http://p229bylfv.bkt.clouddn.com/VirtualXposed_latest.apk)
+- [最新版][1]
 - [历史版本](download.md)
 
 ### 安装模块
@@ -58,4 +58,4 @@
 1. [VirtualApp](https://github.com/asLody/VirtualApp)
 2. [Xposed](https://github.com/rovo89/Xposed)
     
-
+[1]: http://p229bylfv.bkt.clouddn.com/VirtualXposed_0.7.1.apk
