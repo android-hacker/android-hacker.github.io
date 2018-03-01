@@ -4,11 +4,8 @@
 
 ## 使用
 
-<!-- <iframe height=498 width=510 src='http://player.youku.com/embed/XMzQzMDA5MjA4NA==' frameborder=0 'allowfullscreen'></iframe> -->
-<!-- <embed src='http://player.youku.com/player.php/sid/XMzQzMDA5MjA4NA==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed> -->
-
 <video width="480" height="400" controls preload> 
-    <source src="video.mp4" media="only screen and (min-device-width: 568px)"></source> 
+    <source src="video.webm"></source> 
 </video>
 
 ### 准备
