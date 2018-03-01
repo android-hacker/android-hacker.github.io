@@ -4,7 +4,7 @@
 
 ## 使用
 
-<video width="400" controls preload> 
+<video width="320" controls preload> 
     <source src="video.webm"></source> 
 </video>
 
