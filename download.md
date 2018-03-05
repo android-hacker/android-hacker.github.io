@@ -2,6 +2,8 @@
 
 ## 0.7.3
 
+[下载](http://p229bylfv.bkt.clouddn.com/VirtualXposed_0.7.3.apk)
+
 更新说明：
 
 1. 添加了升级/降级安装应用的功能。（添加APP时单选即可）
