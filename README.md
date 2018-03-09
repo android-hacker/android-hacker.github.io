@@ -33,6 +33,7 @@
 
 - [微X模块][wx]
 - [微信巫师][wxws]
+- [MDWechat][mdwechat]
 - [应用变量][yybl]
 - [音量增强器][ylzqq]
 - [微信学英语][wxxyy]
@@ -75,4 +76,5 @@
 [mnwz]: https://www.coolapk.com/apk/com.rong.xposed.fakelocation
 [zwzf]: https://github.com/android-hacker/Xposed-Fingerprint-pay/releases
 [bsxg]: https://www.coolapk.com/apk/com.specher.sm
+[mdwechat]: https://github.com/Blankeer/MDWechat
 
