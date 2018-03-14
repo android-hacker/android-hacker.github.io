@@ -1,8 +1,8 @@
 # 发布日志
 
-# 0.8.2
+# 0.8.3
 
-[下载](http://p229bylfv.bkt.clouddn.com/VirtualXposed_0.8.2.apk)
+[下载](http://p229bylfv.bkt.clouddn.com/VirtualXposed_0.8.3.apk)
 
 Release Notes:
 
