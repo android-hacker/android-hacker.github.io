@@ -1,5 +1,16 @@
 # 发布日志
 
+# 0.8.2
+
+[下载](http://p229bylfv.bkt.clouddn.com/VirtualXposed_0.8.2.apk)
+
+Release Notes:
+
+1. fix crash.
+2. feature: support storage redirect.
+
+2018/3/14
+
 ## 0.7.3
 
 [下载](http://p229bylfv.bkt.clouddn.com/VirtualXposed_0.7.3.apk)

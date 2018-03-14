@@ -64,7 +64,7 @@
 1. [VirtualApp](https://github.com/asLody/VirtualApp)
 2. [Xposed](https://github.com/rovo89/Xposed)
     
-[latest_version]: http://p229bylfv.bkt.clouddn.com/VirtualXposed_0.7.3.apk
+[latest_version]: http://p229bylfv.bkt.clouddn.com/VirtualXposed_0.8.2.apk
 [wx]: https://pan.baidu.com/s/1hrOzCnq#list/path=%2Freleases%2Fapk&parentPath=%2Freleases
 [wxws]: https://github.com/Gh0u1L5/WechatMagician/releases
 [yybl]: https://www.coolapk.com/apk/com.sollyu.xposed.hook.model
