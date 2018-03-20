@@ -1,15 +1,20 @@
 # 发布日志
 
-# 0.8.3
+# 0.8.5
 
-[下载](http://p229bylfv.bkt.clouddn.com/VirtualXposed_0.8.3.apk)
+[下载](http://p229bylfv.bkt.clouddn.com/VirtualXposed_0.8.5.apk)
 
-Release Notes:
+更新说明：
 
-1. fix crash.
-2. feature: support storage redirect.
+1. 新功能：支持从外部系统分享内容到VirtualXposed内部。
+2. 新功能：支持从外部系统直接安装应用到Virtual Xposed。
+3. 新功能：支持直接从内部APP退回到系统桌面（设置－高级设置）。
+4. 新功能：支持隐藏主页设置按钮（可以通过菜单键和长按主界面进入设置）。
+5. 新功能：更完善的IO重定向（本次升级后会有缓存被清的情况，属正常现象，以后不会了）。
+6. 大量界面改进。
+7. 修复闪退，提升稳定性。
 
-2018/3/14
+2018/3/20
 
 ## 0.7.3
 
