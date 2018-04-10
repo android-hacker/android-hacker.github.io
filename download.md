@@ -1,5 +1,15 @@
 # 发布日志
 
+# 0.8.9
+
+[下载](http://p229bylfv.bkt.clouddn.com/VirtualXposed_0.8.9.apk)
+
+更新说明：
+
+1. 修复三星8.0上无法使用的问题。
+2. 改善后台接受消息的问题。
+3. 修复闪退，提升稳定性。
+
 # 0.8.5
 
 [下载](http://p229bylfv.bkt.clouddn.com/VirtualXposed_0.8.5.apk)
