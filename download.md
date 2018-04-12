@@ -1,14 +1,15 @@
 # 发布日志
 
-# 0.8.9
+# 0.9.0
 
-[下载](http://p229bylfv.bkt.clouddn.com/VirtualXposed_0.8.9.apk)
+[下载](http://p229bylfv.bkt.clouddn.com/VirtualXposed_0.9.0.apk)
 
 更新说明：
 
 1. 修复三星8.0上无法使用的问题。
 2. 改善后台接受消息的问题。
 3. 修复闪退，提升稳定性。
+4. 修复某些情况下微信频繁自杀的问题。
 
 # 0.8.5
 
