@@ -1,5 +1,24 @@
 # 发布日志
 
+# 0.9.4
+
+[下载](http://p229bylfv.bkt.clouddn.com/VirtualXposed_0.9.1.apk)
+
+更新说明：
+
+1. 修复音量增强器在 Android 8.0上无法使用的问题。
+2. 修复部分插件在Android 8.0上不生效的问题。
+3. 添加西班牙语支持。
+4. 华为用户看这里：http://vxposed.com/zhongchou.html
+
+New Features:
+
+1. Language support for Spanish, Thanks @JMVS.
+2. fix some Xposed module can not work in Android 8.0.
+3. fix for UnblockCloudMusic163.
+
+2018/4/16
+
 # 0.9.1
 
 [下载](http://p229bylfv.bkt.clouddn.com/VirtualXposed_0.9.1.apk)
