@@ -2,7 +2,7 @@
 
 # 0.9.4
 
-[下载](http://p229bylfv.bkt.clouddn.com/VirtualXposed_0.9.1.apk)
+[下载](http://p229bylfv.bkt.clouddn.com/VirtualXposed_0.9.4.apk)
 
 更新说明：
 
