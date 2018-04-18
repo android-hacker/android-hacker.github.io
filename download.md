@@ -13,6 +13,8 @@
 5. 部分细节调整。
 6. 华为用户看这里：http://vxposed.com/zhongchou.html
 
+Release Notes:
+
 1. Improve the message sending & receiving of IM.
 2. Merge the source code of Rootless Pixel Launcher.
 3. You can find Telegram group in about page.
