@@ -1,5 +1,25 @@
 # 发布日志
 
+# 0.9.7
+
+[下载](http://p229bylfv.bkt.clouddn.com/VirtualXposed_0.9.7.apk)
+
+更新说明：
+
+1. 尝试修复微信经常需要重新输入密码登陆的问题。
+2. 继续部分机型改善后台收发消息的问题。
+3. 同步Pixel桌面的最新代码。
+4. 添加Telegram群组/文件复制等UI。
+5. 部分细节调整。
+6. 华为用户看这里：http://vxposed.com/zhongchou.html
+
+1. Improve the message sending & receiving of IM.
+2. Merge the source code of Rootless Pixel Launcher.
+3. You can find Telegram group in about page.
+4. minar UI fix.
+
+2018/4/18
+
 # 0.9.4
 
 [下载](http://p229bylfv.bkt.clouddn.com/VirtualXposed_0.9.4.apk)
