@@ -1,5 +1,23 @@
 # 发布日志
 
+# 0.9.8
+
+[下载](http://p229bylfv.bkt.clouddn.com/VirtualXposed_0.9.8.apk)
+
+更新说明：
+
+1. 提高 Android 7.0/7.1系统上的稳定性。
+2. 解决某些应用界面跳转时闪动的问题。
+3. 兼容全面屏（支持18:9屏幕）
+4. 新增“保守模式”（设置-高级设置）
+
+What's new?
+
+1. Improve the stability on Android 7.0 & 7.1.
+2. fix the screen flashing when switch UI.
+3. Support 18:9 screen.
+4. New Feature: Conservative Mode(Settings -> Advance Settings)
+
 # 0.9.7
 
 [下载](http://p229bylfv.bkt.clouddn.com/VirtualXposed_0.9.7.apk)
