@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 title: VirtualXposed
-description: Use Xposed with a simple App, do not need root, unlock the bootloader, or flush system image.
+description: Use Xposed with a simple APP, without needing to root, unlock the bootloader, or flash a system image.
 show_downloads: false
