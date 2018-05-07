@@ -47,6 +47,7 @@
 - [微信增强插件][wxzqcj]: 微信模块，VXP内最稳定的微信模块；如无特殊需求建议用这个。
 - [QQ斗图神器][qqdtsq]: 各种表情，斗图神器。
 - [微信斗图神器][wxdtsq]: 斗图神器，微信用的。
+- [大圣净化][dsjh]: 去广告神器，推荐使用。
 
 或许还有很多，自行测试。
 
@@ -85,3 +86,4 @@
 [qqjj]: https://github.com/zpp0196/QQSimple
 [qqdtsq]: https://www.coolapk.com/apk/x.hook.qqemoji
 [wxdtsq]: https://www.coolapk.com/apk/x.hook.emojihook
+[dsjh]: https://wiki.ad-gone.com/archives/32/
