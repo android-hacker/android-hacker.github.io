@@ -1,5 +1,25 @@
 # 发布日志
 
+# 0.9.9
+
+[下载](http://p229bylfv.bkt.clouddn.com/VirtualXposed_0.9.9.apk)
+
+1. Xposed底层调整，提升对插件的兼容性。
+2. 保守模式默认开启，如果你使用没问题；需要主动前往高级设置开启。
+3. 新增常用模块的功能，推荐一些VXP使用稳定的模块。
+4. QQ群/微信群反馈隐藏，请使用邮件反馈。
+5. 修复若干Xposed相关的Bug。
+
+What's new?
+
+1. improve the compatbiility with some Xposed module.
+2. keep conservative mode default on, you need to switch it off manally when necessary.
+3. new feature: Recommended Xposed Module.
+4. hide the qq group & wechat group.
+5. fix some bug about Xposed.
+
+2018/5/9
+
 # 0.9.8
 
 [下载](http://p229bylfv.bkt.clouddn.com/VirtualXposed_0.9.8.apk)
