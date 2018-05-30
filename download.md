@@ -1,5 +1,29 @@
 # 发布日志
 
+# 0.10.0
+
+[下载](http://files.git.oschina.net/group1/M00/03/C8/PaAvDFsONQOAY2SRAGjn-qFtaQ8858.apk?token=153919af24db88f6a7340b1269e4dd2c&ts=1527658478&attname=VirtualXposed_0.10.0.apk)
+
+1. 现在可以去掉恼人的常驻通知栏了。
+2. 设置界面添加Xposed模块管理的入口，更加便捷（设置-模块管理）。
+3. 允许安装没有签名的应用到 VirtualXposed（设置-高级设置）。
+4. 修复Xposed模块声明多个入口时只会生效一个的BUG。
+5. 修复Xposed接口调用原函数直接崩溃的BUG。
+6. 初步支持 x86。
+
+What's new ?
+
+1. You can hide the resident notification of VirtualXposed now.
+2. new Xposed Module manage UI in settings.
+3. Allow to install apk without signatures.
+4. fix bug of Xposed module with multiple entries.
+5. fix bug of Xposed when invoke orignal method.
+6. add initial support for x86.
+
+
+
+2018/5/30
+
 # 0.9.9
 
 [下载](http://p229bylfv.bkt.clouddn.com/VirtualXposed_0.9.9.apk)
