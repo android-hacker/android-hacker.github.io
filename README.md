@@ -29,7 +29,7 @@
 
 在VirtualXposed中安装Xposed模块，可以跟安装正常的APK一样，以上两种安装App的方式也适用于安装Xposed模块。不过，你也可以通过VirtualXposed中内置的XposedInstaller来安装和管理模块，跟通常的XposedInstaller使用方式一样；去下载页面，下载安装即可。 
 
-## 已经支持的模块
+## 亲测可用的模块
 
 - [微X模块][wx]: 微信模块，功能全面；但与VXP兼容性一般。
 - [微信巫师][wxws]: 微信模块，项目开源，代码优秀。
@@ -54,7 +54,7 @@
 ## 已知问题
 
 1. 由于暂不支持资源HOOK，因此资源钩子不会起任何作用；使用资源HOOK的模块，相应的功能不会生效。
-2. 部分插件的兼容性有问题，比如QX模块。
+2. 无法修改系统，因此相关的模块不会生效。
 
 ## 支持和加入
 
@@ -69,7 +69,7 @@
 1. [VirtualApp](https://github.com/asLody/VirtualApp)
 2. [Xposed](https://github.com/rovo89/Xposed)
     
-[latest_version]: http://files.git.oschina.net/group1/M00/03/C8/PaAvDFsONQOAY2SRAGjn-qFtaQ8858.apk?token=153919af24db88f6a7340b1269e4dd2c&ts=1527658478&attname=VirtualXposed_0.10.0.apk
+[latest_version]: http://files.git.oschina.net/group1/M00/03/C9/PaAvDFsPVTGAZ6oDAGjZ4ArO67o005.apk?token=042a78915be6b72cc24dd35dad9aeb78&ts=1527731511&attname=VirtualXposed_0.10.1.apk
 [wx]: https://pan.baidu.com/s/1hrOzCnq#list/path=%2Freleases%2Fapk&parentPath=%2Freleases
 [wxws]: https://github.com/Gh0u1L5/WechatMagician/releases
 [yybl]: https://www.coolapk.com/apk/com.sollyu.xposed.hook.model

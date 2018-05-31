@@ -1,8 +1,8 @@
 # 发布日志
 
-# 0.10.0
+# 0.10.1
 
-[下载](http://files.git.oschina.net/group1/M00/03/C8/PaAvDFsONQOAY2SRAGjn-qFtaQ8858.apk?token=153919af24db88f6a7340b1269e4dd2c&ts=1527658478&attname=VirtualXposed_0.10.0.apk)
+[下载](http://files.git.oschina.net/group1/M00/03/C9/PaAvDFsPVTGAZ6oDAGjZ4ArO67o005.apk?token=042a78915be6b72cc24dd35dad9aeb78&ts=1527731511&attname=VirtualXposed_0.10.1.apk)
 
 1. 现在可以去掉恼人的常驻通知栏了。
 2. 设置界面添加Xposed模块管理的入口，更加便捷（设置-模块管理）。
@@ -10,6 +10,7 @@
 4. 修复Xposed模块声明多个入口时只会生效一个的BUG。
 5. 修复Xposed接口调用原函数直接崩溃的BUG。
 6. 初步支持 x86。
+7. 修复非中文系统上安装必定闪退的问题。
 
 What's new ?
 
@@ -19,10 +20,11 @@ What's new ?
 4. fix bug of Xposed module with multiple entries.
 5. fix bug of Xposed when invoke orignal method.
 6. add initial support for x86.
+7. fix crash when add app to VirtualXposed.
 
 
 
-2018/5/30
+2018/5/31
 
 # 0.9.9
 
