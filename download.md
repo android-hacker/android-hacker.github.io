@@ -2,7 +2,7 @@
 
 # 0.10.1
 
-[下载](http://files.git.oschina.net/group1/M00/03/C9/PaAvDFsPVTGAZ6oDAGjZ4ArO67o005.apk?token=042a78915be6b72cc24dd35dad9aeb78&ts=1527731511&attname=VirtualXposed_0.10.1.apk)
+[下载](http://files.git.oschina.net/group1/M00/03/C9/PaAvDFsPWdiAVM2RAGjZ8PBLFAg160.apk?token=07d41aecdb3d0d116ed481f585c2c922&ts=1527760513&attname=VirtualXposed_0.10.1.apk)
 
 1. 现在可以去掉恼人的常驻通知栏了。
 2. 设置界面添加Xposed模块管理的入口，更加便捷（设置-模块管理）。
