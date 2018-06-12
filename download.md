@@ -1,5 +1,28 @@
 # 发布日志
 
+# 0.11.2
+
+[下载](http://files.git.oschina.net/group1/M00/03/E6/PaAvDFscnKiAQ9HsAGlldNRGLzs305.apk?token=fb3a27c77bf0a33510b8b538bbb56350&ts=1528601770&attname=VirtualXposed_0.11.2.apk)
+
+Relase Notes:
+
+1. Big change: **Support runtime permission**, when install VirtualXposed, it doesn't need permission any more.
+2. Big change: **Support Google service**.
+3. Feature: You can disable Xposed now.
+4. Add translation for French and Russia, thanks for @papasha55, @Enyby and  @xerta555
+5. fix some crashes caused by Xposed.
+6. performance optimize: speed up the time to open VirtualXposed.
+7. You can donate me with Paypal or Bitcoin now.
+
+更新日志：
+
+1. 重大更新：支持运行时权限，现在安装的时候不需要任何权限；并且可以动态拒绝任何权限。
+2. 重大更新：支持 Google 服务，即使你的手机不支持也可以。
+3. 新特性：可以关闭Xposed功能。
+4. 性能优化：优化初次进入 VirtualXposed 打开速度。
+5. 添加法语和俄语的多语言支持，感谢 @papasha55, @Enyby, @xerta555。
+6. 修复一些BUG（比如QQ看点打开卡死等）
+
 # 0.10.1
 
 [下载](http://files.git.oschina.net/group1/M00/03/C9/PaAvDFsPWdiAVM2RAGjZ8PBLFAg160.apk?token=07d41aecdb3d0d116ed481f585c2c922&ts=1527760513&attname=VirtualXposed_0.10.1.apk)
