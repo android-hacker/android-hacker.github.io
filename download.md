@@ -1,5 +1,23 @@
 # 发布日志
 
+# 0.11.5
+
+[下载](http://files.git.oschina.net/group1/M00/03/F7/PaAvDFsmMr-AK8zLAGmVUOQbvr4784.apk?token=cfe3eeee605d1ef8d4288fb99e31121d&ts=1529230018&attname=VirtualXposed_0.11.5.apk)
+
+Release Notes:
+
+1. fix the bug of runtime permission.
+2. fix many crash introduced in v0.11.2.
+3. Google service support YalpStore.
+
+更新日志：
+
+1. 更完善的运行时权限：修复0.11.2中的问题。
+2. 更完善的Google服务：支持YalpStore。
+3. 修复大量闪退；这会是一个相对稳定的版本。
+
+2018/6/17
+
 # 0.11.2
 
 [下载](http://files.git.oschina.net/group1/M00/03/E6/PaAvDFscnKiAQ9HsAGlldNRGLzs305.apk?token=fb3a27c77bf0a33510b8b538bbb56350&ts=1528601770&attname=VirtualXposed_0.11.2.apk)
