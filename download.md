@@ -1,5 +1,18 @@
 # 发布日志
 
+# 0.12.1
+
+[下载](http://files.git.oschina.net/group1/M00/04/0C/PaAvDFsx-IaAWZWUAGmRwFfxiVw220.apk?token=a02fb9dc80404f5d911fd440240bbc01&ts=1530001548&attname=VirtualXposed_0.12.1.apk)
+
+更新日志：
+
+1. 重要：需要升级系统的用户务必升级到这版本！！不然VirtualXposed内部数据可能全部丢失！！
+2. 移除保守模式：问题已经解决，已经不需要了（稳定性提升）。
+3. 修复若干 Xposed 兼容性问题。
+4. 修复闪退。
+
+2018/6/26
+
 # 0.11.5
 
 [下载](http://files.git.oschina.net/group1/M00/03/F7/PaAvDFsmMr-AK8zLAGmVUOQbvr4784.apk?token=cfe3eeee605d1ef8d4288fb99e31121d&ts=1529230018&attname=VirtualXposed_0.11.5.apk)

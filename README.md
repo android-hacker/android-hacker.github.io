@@ -1,19 +1,12 @@
-**VirtualXposed** 是基于[VirtualApp](https://github.com/asLody/VirtualApp) 和 [epic](https://github.com/tiann/epic) 在**非ROOT**环境下运行Xposed模块的实现（支持5.0~8.1)。
 
-[点击下载][latest_version]
+- [最新版][latest_version]
+- [历史版本](download.md)
 
 ## 使用
 
 <video width="320" controls preload> 
     <source src="video.webm"></source> 
 </video>
-
-### 准备
-
-首先在 [下载页面](download.md) 下载最新的 VirtualXposed 安装包安装到手机。
-
-- [最新版][latest_version]
-- [历史版本](download.md)
 
 ### 安装模块
 
@@ -51,25 +44,8 @@
 
 或许还有很多，自行测试。
 
-## 已知问题
-
-1. 由于暂不支持资源HOOK，因此资源钩子不会起任何作用；使用资源HOOK的模块，相应的功能不会生效。
-2. 无法修改系统，因此相关的模块不会生效。
-
-## 支持和加入
-
-目前VirtualXposed 还不完善，如果你对非ROOT下实现Xposed感兴趣；欢迎加入！你可以通过如下方式来支持：
-
-1. 直接贡献代码，提供Feature，修复BUG！
-2. 使用你拥有的手机，安装你常用的Xposed模块，反馈不可用情况；协助帮忙解决兼容性问题！
-3. 提出体验上，功能上的建议，帮助完善VirtualXposed！
-
-## 致谢
-
-1. [VirtualApp](https://github.com/asLody/VirtualApp)
-2. [Xposed](https://github.com/rovo89/Xposed)
     
-[latest_version]: http://files.git.oschina.net/group1/M00/03/F7/PaAvDFsmMr-AK8zLAGmVUOQbvr4784.apk?token=cfe3eeee605d1ef8d4288fb99e31121d&ts=1529230018&attname=VirtualXposed_0.11.5.apk
+[latest_version]: http://files.git.oschina.net/group1/M00/04/0C/PaAvDFsx-IaAWZWUAGmRwFfxiVw220.apk?token=a02fb9dc80404f5d911fd440240bbc01&ts=1530001548&attname=VirtualXposed_0.12.1.apk
 [wx]: https://pan.baidu.com/s/1hrOzCnq#list/path=%2Freleases%2Fapk&parentPath=%2Freleases
 [wxws]: https://github.com/Gh0u1L5/WechatMagician/releases
 [yybl]: https://www.coolapk.com/apk/com.sollyu.xposed.hook.model
