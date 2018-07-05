@@ -1,9 +1,9 @@
 ## Download
 
-- [Latest Version][latest_version]
-- [History Release](download.md)
+- [Latest Version/最新版本下载][latest_version]
+- [History Release/历史版本下载](download.md)
 
-[Donate | 支持我](donate.md)
+[Donate \| 支持我](donate.md)
 
 ## Usage
 
