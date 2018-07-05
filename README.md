@@ -47,7 +47,7 @@
 或许还有很多，自行测试。
 
     
-[latest_version]: http://files.git.oschina.net/group1/M00/04/0C/PaAvDFsx-IaAWZWUAGmRwFfxiVw220.apk?token=a02fb9dc80404f5d911fd440240bbc01&ts=1530001548&attname=VirtualXposed_0.12.1.apk
+[latest_version]: http://files.git.oschina.net/group1/M00/04/26/PaAvDFs9rQuAXoy_AGmuqMqLeqI104.apk?token=3c31ef4d3caf55ef61469143413e0742&ts=1530768801&attname=VirtualXposed_0.12.7.apk
 [wx]: https://pan.baidu.com/s/1hrOzCnq#list/path=%2Freleases%2Fapk&parentPath=%2Freleases
 [wxws]: https://github.com/Gh0u1L5/WechatMagician/releases
 [yybl]: https://www.coolapk.com/apk/com.sollyu.xposed.hook.model

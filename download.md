@@ -1,5 +1,25 @@
 # 发布日志
 
+# 0.12.7
+
+[下载](http://files.git.oschina.net/group1/M00/04/26/PaAvDFs9rQuAXoy_AGmuqMqLeqI104.apk?token=3c31ef4d3caf55ef61469143413e0742&ts=1530768801&attname=VirtualXposed_0.12.7.apk)
+
+What's New:
+
+1. New Feature: Permission Management.
+2. New Feature: File Management.
+3. Fix crash on Android 8.1 when AutoFill enabled.
+4. Suspend Project: The maintaining cost lots of my time, see you again.
+
+更新日志：
+
+1. 新功能：权限管理。
+2. 新功能：文件管理。
+3. 修复8.1以上点击任意输入框闪退的问题。
+4. 暂停更新：维护VirtualXposed耗费了我太多太多的时间，得不偿失；目前我已经很满意了，有缘再见。
+
+2018/7/4
+
 # 0.12.1
 
 [下载](http://files.git.oschina.net/group1/M00/04/0C/PaAvDFsx-IaAWZWUAGmRwFfxiVw220.apk?token=a02fb9dc80404f5d911fd440240bbc01&ts=1530001548&attname=VirtualXposed_0.12.1.apk)
