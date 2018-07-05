@@ -1,21 +1,20 @@
-# 华为8.0系统众筹
+# Donate | 支持我
 
-有花粉反馈，VirtualXposed在华为8.0系统上运行不够稳定，正好我用了四年的iPhone坏掉了，各位花粉可以赞助我一个 P20 作为我的主力机，我会把VirtualXposed调教到令人满意的地步。
+The maintaining of VirtualXposed costs lots of my time, if you appreciate my work, buy me a cup of coffee! :)
 
-以下是我的支付宝和微信收款码：
+维护 VirtualXposed 耗费了我大量时间，如果你喜欢这个项目，可以赞助我买包辣条。
+
+BitCoin/比特币地址: 39Wst8oL74pRP2vKPkPihH6RFQF4hWoBqU
+
+Paypal: https://paypal.me/virtualxposed
 
 ![支付宝](alipay.jpg) 
 
-(用户名为 田维术，不是的话请勿转账！)
-
-
 ![微信](weixin.png) 
-
-(用户名为 小术，不是的话请勿转账！)
 
 当前金额：1720.64 RMB
 
-本网站会每天更新，同时列举出各位捐赠人的名字（可以备注注明，谢谢大家 :)
+本网站不定期更新，同时列举出各位捐赠人的名字（可以备注注明，谢谢大家 :)
 
 谢谢以下支持者：
 
