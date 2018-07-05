@@ -1,18 +1,14 @@
-# Donate | 支持我
-
 The maintaining of VirtualXposed costs lots of my time, if you appreciate my work, buy me a cup of coffee! :)
 
 维护 VirtualXposed 耗费了我大量时间，如果你喜欢这个项目，可以赞助我买包辣条。
 
 BitCoin/比特币地址: 39Wst8oL74pRP2vKPkPihH6RFQF4hWoBqU
 
-Paypal: https://paypal.me/virtualxposed
+Paypal: [VirtualXposed](https://paypal.me/virtualxposed)
 
 ![支付宝](alipay.jpg) 
 
 ![微信](weixin.png) 
-
-当前金额：1720.64 RMB
 
 本网站不定期更新，同时列举出各位捐赠人的名字（可以备注注明，谢谢大家 :)
 

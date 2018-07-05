@@ -3,7 +3,7 @@
 - [Latest Version][latest_version]
 - [History Release](download.md)
 
-[Donate](donate.md)
+[Donate | 支持我](donate.md)
 
 ## Usage
 
