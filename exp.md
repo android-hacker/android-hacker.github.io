@@ -17,6 +17,8 @@ VirtualXposed 自去年诞生以来，已经经历了相当一段时间；在项
 
 EXP的开发已经基本完成，但是由于一些其他原因暂时不打算发布；希望一切顺利能尽早和大家见面吧：）
 
+[这里可以看看EXposed的预览视频](http://www.bilibili.com/video/av29861982/)
+
 如果条件允许的话，可以支持我一下；谢谢大家。
 
 [**支持我**](https://vxposed.com/donate.html)
