@@ -10,6 +10,8 @@ Paypal: [VirtualXposed](https://paypal.me/virtualxposed)
 
 ![微信](weixin.png) 
 
+![QQ支付](qq.png)
+
 本网站不定期更新，同时列举出各位捐赠人的名字（可以备注注明，谢谢大家 :)
 
 谢谢以下支持者：
