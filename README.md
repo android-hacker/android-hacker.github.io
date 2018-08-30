@@ -61,7 +61,7 @@ You only need to reboot VirtualXposed, **There's no need to reboot your phone**;
 Supported modules are far more than above, you should test it by yourself.
 
     
-[latest_version]: http://files.git.oschina.net/group1/M00/04/26/PaAvDFs9rQuAXoy_AGmuqMqLeqI104.apk?token=3c31ef4d3caf55ef61469143413e0742&ts=1530768801&attname=VirtualXposed_0.12.7.apk
+[latest_version]: http://files.git.oschina.net/group1/M00/04/C3/PaAvDFuHe2GAPvFAAGoefrpztxQ420.apk?token=8ceb9531f8ac501c76cb34f0c2ce41d0&ts=1535605603&attname=app-aosp-release.apk
 [wx]: http://repo.xposed.info/module/com.fkzhang.wechatxposed
 [qx]: http://repo.xposed.info/module/com.fkzhang.qqxposed
 [wxws]: https://github.com/Gh0u1L5/WechatMagician/releases

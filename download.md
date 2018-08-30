@@ -1,5 +1,17 @@
 # 发布日志
 
+# 0.14.0
+
+[下载](http://files.git.oschina.net/group1/M00/04/C3/PaAvDFuHe2GAPvFAAGoefrpztxQ420.apk?token=8ceb9531f8ac501c76cb34f0c2ce41d0&ts=1535605603&attname=app-aosp-release.apk)
+
+更新日志：
+
+1. Xposed稳定性提升：修复某些设备上疯狂闪退的问题。
+2. 初步支持 Android 9.0。
+3. 修复 Android 8.0相关问题。
+4. 修复支付宝某些页面打不开的问题。
+5. 修复某些APP无法打开的问题。
+
 # 0.12.7
 
 [下载](http://files.git.oschina.net/group1/M00/04/26/PaAvDFs9rQuAXoy_AGmuqMqLeqI104.apk?token=3c31ef4d3caf55ef61469143413e0742&ts=1530768801&attname=VirtualXposed_0.12.7.apk)
