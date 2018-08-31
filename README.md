@@ -41,6 +41,7 @@ You only need to reboot VirtualXposed, **There's no need to reboot your phone**;
 - [Minminguard][minminguard]: Completely remove both the ads inside apps and the empty space caused by those ads.
 - [YouTube AdAway][yta]:  Get rid of ads on the official YouTube App.
 - [微X模块][wx]: 微信模块，功能强大。
+- [畅玩微信][cwwx]: 微信模块新秀，功能丰富。
 - [微信巫师][wxws]: 微信模块，项目开源，代码优秀。
 - [MDWechat][mdwechat]: 微信美化模块，可以把微信整成MD风格。
 - [应用变量][yybl]: 可以用来进行机型修改，比如王者荣耀高帧率；QQ空间修改小尾巴等。
@@ -63,6 +64,7 @@ Supported modules are far more than above, you should test it by yourself.
     
 [latest_version]: http://files.git.oschina.net/group1/M00/04/C3/PaAvDFuHe2GAPvFAAGoefrpztxQ420.apk?token=8ceb9531f8ac501c76cb34f0c2ce41d0&ts=1535605603&attname=app-aosp-release.apk
 [wx]: http://repo.xposed.info/module/com.fkzhang.wechatxposed
+[cwwx]: http://repo.xposed.info/module/com.example.wx_plug_in3
 [qx]: http://repo.xposed.info/module/com.fkzhang.qqxposed
 [wxws]: https://github.com/Gh0u1L5/WechatMagician/releases
 [yybl]: https://www.coolapk.com/apk/com.sollyu.xposed.hook.model
