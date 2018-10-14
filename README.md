@@ -62,7 +62,7 @@ You only need to reboot VirtualXposed, **There's no need to reboot your phone**;
 Supported modules are far more than above, you should test it by yourself.
 
     
-[latest_version]: http://files.git.oschina.net/group1/M00/04/C9/PaAvDFuKYYiAdIl0AGoh8oXMZYA467.apk?token=7cf9d8ea546c0e6f327659c453152759&ts=1535795597&attname=VirtualXposed_0.14.5.apk
+[latest_version]: https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbTI5bU5UYjJXcmJiVkxxY1ZFWGJ6UDRNdGs=.apk
 [wx]: http://repo.xposed.info/module/com.fkzhang.wechatxposed
 [cwwx]: http://repo.xposed.info/module/com.example.wx_plug_in3
 [qx]: http://repo.xposed.info/module/com.fkzhang.qqxposed
