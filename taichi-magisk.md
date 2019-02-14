@@ -1,30 +1,42 @@
-# 太极·Magisk 
+# TaiChi·Magisk
 
-[预览视频](https://www.bilibili.com/video/av39879925/)
+[中文版](https://github.com/tiann/EXposed/wiki/taichi-magisk-zh)
 
-众所周知，普通的太极虽然不需要解锁、刷机，但是它需要修改安装包，并且无法拦截系统。
+## What is TaiChi·Magisk？
 
-太极·Magisk的出现解决了这一点，针对会折腾的用户，使用Magisk 挂载太极，这样能实现与原生Xposed 完全一致的功能：不用修改安装包，可以修改系统；还能免重启生效。更重的是，它支持 Android P！
+**TaiChi·Magisk is the enhanced version of TaiChi**。
 
-当然，如果你不想刷机，完全不影响；你依然可以用普通版的太极，享受Xposed的功能！
+The normal TaiChi can not hook into system process, and it must uninstall the original app when create new app.TaiChi·Magisk can overcome these shortcomings. TaiChi·Magisk hooks into system process via a magisk module, it can intercept all processes in system, so it can do all which Xposed Framework can do.
 
-太极·Magisk 概念版已经开发完毕，请大家帮忙宣传支持一下。**关注微信公众号 虚拟框架，粉丝过10w直接发布。**
+To be specific, what are the differences between TaiChi·Magisk and TaiChi?
 
-当前粉丝数目：**35003**
+1. TaiChi·Magisk can hook system process, so more modules are supported, such as Xposed Edge/Greenify.
+2. TaiChi·Magisk don't need to modify app, it is very fast to create apps.
+3. TaiChi·Magisk has more control over system, so it is more stable than the normal version.
 
-说明：预期完善这个产品需要一个月，所谓的10w粉是按照没有发布这篇文章之前，自然增长速度测算的需要一个月。即使你什么也不干，大约一个月之后也会达到这个水平。重要的是这一个月的时间，而不是纠结所谓的10w粉。请注意，我并没有众筹10亿美金。如果你真的期待，转发一下压根花费不了什么；如果这个还理解不了，那没辙。如果大家热情高涨，我自然加班加点干；如果没有，我也无所谓呗。难道提前一天发布，我会多几万块钱？
+And what are the differences between TaiChi·Magisk and Xposed Framework?
 
-另外，如果你喜欢这个项目，可以赞助我买包辣条。
+1. TaiChi·Magisk fully supports Android Pie.
+2. TaiChi·Magisk does not effect the android system and it does not hook all apps in system. Only the apps you want to apply Xposed modules are hooked. Other apps in system run in a completely clean environment.
+3. TaiChi·Magisk doesn't need to reboot sysytem in most cases.
+4. TaiChi·Magisk is hard to detect. TaiChi doesn't modify the libart and app_process, it has nearly no noticeable characteristics.
 
-BitCoin/比特币地址: 39Wst8oL74pRP2vKPkPihH6RFQF4hWoBqU
+## How to use ?
 
-Paypal: [VirtualXposed](https://paypal.me/virtualxposed)
+In simple terms, follow the steps:
 
-![支付宝](alipay.jpg) 
+1. Install Magisk.
+2. Flash the magisk provided by TaiChi.
+3. Install TaiChi App. 
 
-![微信](weixin.png) 
+Here are more informations in detail:
 
-![QQ支付](qq.png)
+[**Notice**](https://github.com/tiann/EXposed/wiki/%E5%87%86%E5%A4%87%E4%BA%8B%E9%A1%B9)
 
- 
+[**Usage**](https://github.com/tiann/EXposed/wiki/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8)
 
+[**FAQ**](https://github.com/tiann/EXposed/wiki/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
+
+[Known Issues](https://github.com/tiann/EXposed/wiki/%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%E5%92%8C%E5%B7%B2%E7%9F%A5%E9%97%AE%E9%A2%98)
+
+**Please read every instructions carefully**.
