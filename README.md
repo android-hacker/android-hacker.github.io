@@ -1,7 +1,7 @@
 ## Download
 
 - [Latest Version/最新版本下载][latest_version]
-- [History Release/历史版本下载](download.md)
+- [History Release/历史版本下载][history release]
 
 [Donate \| 支持我](donate.md)
 
@@ -62,7 +62,8 @@ You only need to reboot VirtualXposed, **There's no need to reboot your phone**;
 Supported modules are far more than above, you should test it by yourself.
 
     
-[latest_version]: https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbTI5bU5UYjJXcmJiVkxxY1ZFWGJ6UDRNdGs=.apk
+[latest_version]: https://github.com/android-hacker/VirtualXposed/releases/latest
+[history release]: https://github.com/android-hacker/VirtualXposed/releases
 [wx]: http://repo.xposed.info/module/com.fkzhang.wechatxposed
 [cwwx]: http://repo.xposed.info/module/com.example.wx_plug_in3
 [qx]: http://repo.xposed.info/module/com.fkzhang.qqxposed
@@ -76,7 +77,7 @@ Supported modules are far more than above, you should test it by yourself.
 [zwzf]: https://github.com/android-hacker/Xposed-Fingerprint-pay/releases
 [bsxg]: https://www.coolapk.com/apk/com.specher.sm
 [mdwechat]: https://github.com/Blankeer/MDWechat
-[wxzqcj]:https://github.com/firesunCN/WechatEnhancement
+[wxzqcj]: https://github.com/firesunCN/WechatEnhancement
 [qqjj]: https://www.coolapk.com/apk/me.zpp0196.qqsimple
 [qqdtsq]: https://www.coolapk.com/apk/x.hook.qqemoji
 [wxdtsq]: https://www.coolapk.com/apk/x.hook.emojihook
