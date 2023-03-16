@@ -6,12 +6,8 @@ ETH: 0xE718fCc45eBEC5BA9aCAF2Eb62cE67eC136c96E9
 
 Paypal: [VirtualXposed](https://paypal.me/virtualxposed)
 
-<img src="alipay.jpg" width="400px" />
-<img src="weixin.png" width="400px" />
-<img src="qq.png" width="400px" />
+<p><img src="alipay.jpg" width="200px" /></p>
 
-![支付宝](alipay.jpg)
+<p><img src="weixin.png" width="200px" /></p>
 
-![微信](weixin.png)
-
-![QQ支付](qq.png)
+<p><img src="qq.png" width="200px" /></p>
