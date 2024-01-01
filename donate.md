@@ -2,7 +2,7 @@ The maintaining of VirtualXposed costs lots of my time, if you appreciate my wor
 
 维护 VirtualXposed 耗费了我大量时间，如果你喜欢这个项目，可以赞助我买包辣条。
 
-ETH: 0xE718fCc45eBEC5BA9aCAF2Eb62cE67eC136c96E9
+ETH: 0x1a7EE4F9bdD69A85ad6bCEfB8c4a71249e03729F
 
 Paypal: [VirtualXposed](https://paypal.me/virtualxposed)
 
